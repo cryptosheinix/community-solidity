@@ -9,27 +9,27 @@ Encontraras material realcionado con el lenguaje de Programación Solidity, usad
 ## 📚 Sheinix Education (Comunidad Educativa)
 #### Canales enfocados en contenido educativo generado por la Comunidad
 
-- 💬 [Discord](https://discord.gg/y9QuKn2bRs)
-- 👩‍💻 [Github (Solidity Repo)](https://github.com/cryptosheinix/community-solidity)
-- 📺 [Youtube](https://www.youtube.com/channel/UCSJmhyHvzgymarsPSdv24xA)  
+- 💬  [Discord](https://discord.gg/y9QuKn2bRs)
+- 👩‍💻  [Github (Solidity Repo)](https://github.com/cryptosheinix/community-solidity)
+- 📺  [Youtube](https://www.youtube.com/channel/UCSJmhyHvzgymarsPSdv24xA)  
 
 
-## CryptoSheinix Links Oficiales 🔥
+## 🔥 CryptoSheinix Links Oficiales 
 #### Redes sociales de Juan CryptoSheinix
 
-- 📺 [Youtube](https://www.youtube.com/c/CryptoSheinix)
-- 🐥 [Twitter](https://twitter.com/sheinix)
-- 💬 [Discord](https://discord.gg/y9QuKn2bRs)
-- 💬 [Telegram](https://t.me/cryptosheinixchat)
-- 📷 [Instagram](https://www.instagram.com/crypto.sheinix/)
-- 📖 [Medium](https://medium.com/@sheinix)
-- 📙 [LBRY](https://open.lbry.com/@CryptoSheinix:d)  
+- 📺  [Youtube](https://www.youtube.com/c/CryptoSheinix)
+- 🐥  [Twitter](https://twitter.com/sheinix)
+- 💬  [Discord](https://discord.gg/y9QuKn2bRs)
+- 💬  [Telegram](https://t.me/cryptosheinixchat)
+- 📷  [Instagram](https://www.instagram.com/crypto.sheinix/)
+- 📖  [Medium](https://medium.com/@sheinix)
+- 📙  [LBRY](https://open.lbry.com/@CryptoSheinix:d)  
 
 
-## Heroes on Chain 🦸‍♀️
+## 🦸‍♀️ Heroes on Chain 
 #### Proyecto NFT de la Comunidad de CryptoSheinix
 
-- ✅ [Pagina Oficial Heroes on Chain](https://heroesonchain.com/)
-- 🧸 [Colección Oficial en Opensea](https://opensea.io/collection/heroes-on-chain)
-- 🐥 [Twitter Oficial](https://twitter.com/heroesonchain)
-- 💬 [Discord Server (#heroes-on-chain)](https://discord.gg/y9QuKn2bRs)
+- ✅  [Pagina Oficial Heroes on Chain](https://heroesonchain.com/)
+- 🧸  [Colección Oficial en Opensea](https://opensea.io/collection/heroes-on-chain)
+- 🐥  [Twitter Oficial](https://twitter.com/heroesonchain)
+- 💬  [Discord Server (#heroes-on-chain)](https://discord.gg/y9QuKn2bRs)
