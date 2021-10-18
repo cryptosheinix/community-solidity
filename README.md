@@ -1,6 +1,6 @@
 # 🙌 Comunidad Educativa CryptoSheinix
 
-👋 Bienvenid@ a la Comunidad educativa de CryptoSheinix! En este luegar podras encontrar todos los archivos relacionados con los Talleres Educativos que brindamos a traves de los miembros de nuestra Comunidad. 
+👋 Bienvenid@ a la Comunidad educativa de CryptoSheinix! En este lugar podras encontrar todos los archivos relacionados con los Talleres Educativos que brindamos a traves de los miembros de nuestra Comunidad. 
 Encontraras material realcionado con el lenguaje de Programación Solidity, usado para el desarrollo de Smart Contracts en Ethereum y otras Blockchains de proposito general. Muchos de estos archivos corresponden con clases que se han dado a traves de nuestro canal de Youtube Oficial [Sheinix Education](https://www.youtube.com/channel/UCSJmhyHvzgymarsPSdv24xA)  
 
 
