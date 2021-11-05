@@ -27,8 +27,8 @@ Encontraras material realcionado con el lenguaje de Programación Solidity, usad
 - 🖇  [Referrals](https://github.com/cryptosheinix/colaboraciones)  
 
 ## 🥩 Sheinix Staking Services
-**Servicios de staking de Criptomonedas para la comunidad**
-🏠 [Sitio Oficial](https://sheinixstaking.github.io/)
+**Servicios de staking de Criptomonedas para la comunidad**  
+🏠 [Sitio Oficial](https://sheinixstaking.github.io/)  
 🐥 [Sheinix Staking Twitter](https://twitter.com/SheinixStaking/)
 
 ## 🦸‍♀️ Heroes on Chain 
