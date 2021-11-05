@@ -23,7 +23,8 @@ Encontraras material realcionado con el lenguaje de Programación Solidity, usad
 - 💬  [Telegram](https://t.me/cryptosheinixchat)
 - 📷  [Instagram](https://www.instagram.com/crypto.sheinix/)
 - 📖  [Medium](https://medium.com/@sheinix)
-- 📙  [LBRY](https://open.lbry.com/@CryptoSheinix:d)  
+- 📙  [LBRY](https://open.lbry.com/@CryptoSheinix:d)
+- 🖇  [Referrals](https://github.com/cryptosheinix/colaboraciones)  
 
 ## 🥩 Sheinix Staking Services
 **Servicios de staking de Criptomonedas para la comunidad**
