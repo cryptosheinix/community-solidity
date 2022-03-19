@@ -6,7 +6,9 @@ Encontraras material realcionado con el lenguaje de Programación Solidity, usad
 
 ### 🔗 Links Oficiales de nuestra Comunidad
 
-## 📚 Sheinix Education (Comunidad Educativa)
+## 👩‍🎓 Sheinix Academy (Comunidad Educativa)
+- 👉 No esperes mas y comienza a educarte de verdad con [Sheinix Academy](https://www.sheinix-academy.com/) 🚀
+
 #### Canales enfocados en contenido educativo generado por la Comunidad
 
 - 💬  [Discord](https://discord.gg/y9QuKn2bRs)
