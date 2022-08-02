@@ -8,6 +8,7 @@ Encontraras material realcionado con el lenguaje de Programación Solidity, usad
 
 ## 👩‍🎓 Sheinix Academy (Comunidad Educativa)
 - 👉 No esperes mas y comienza a educarte de verdad con [Sheinix Academy](https://www.sheinix-academy.com/) 🚀
+- 👉 [DESCARGA esta GUIA DeFi GRATUITA para generar ingresos pasivos](https://www.sheinix-academy.com/ingresos-pasivos-defi)
 - 👉 [DESCARGA la GUIA GRATUITA: 11 Formas de Ganar Dinero con las Criptomonedas](https://www.sheinix-academy.com/formas-de-ganar-dinero-con-cripto)
 
 #### Canales enfocados en contenido educativo generado por la Comunidad
